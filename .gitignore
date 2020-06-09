@@ -1,7 +1,6 @@
 CVS
 java/*_wrap.cxx
-lib/*.so
-lib/*.a
+lib/*
 *.class
 GPATH
 GRTAGS
@@ -11,3 +10,4 @@ GTAGS
 *.exe
 *.swp
 .cvsignore
+*.nupkg
