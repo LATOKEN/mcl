@@ -10,6 +10,14 @@
       <Pack>false</Pack>
     </Content>
 
+    <Content Include="$(MSBuildThisFileDirectory)..\..\runtimes\osx-x64\native\libmclbn384_256.dylib">
+      <PackageCopyToOutput>true</PackageCopyToOutput>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Link>native\osx-x64\libmclbn384_256.dylib</Link>
+      <Visible>true</Visible>
+      <Pack>false</Pack>
+    </Content>
+
     <Content Include="$(MSBuildThisFileDirectory)..\..\runtimes\win-x64\native\mclbn384_256.dll">
       <PackageCopyToOutput>true</PackageCopyToOutput>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
