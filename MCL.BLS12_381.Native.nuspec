@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>MCL.BLS12_381.Native</id>
-    <version>0.0.4</version>
+    <version>0.0.5</version>
     <authors>Skird</authors>
     <owners>Skird</owners>
     <licenseUrl>https://raw.githubusercontent.com/Skird/mcl/master/COPYRIGHT</licenseUrl>
